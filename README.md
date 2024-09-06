@@ -99,7 +99,8 @@ Fully Connected Layer (Binary Classification: Real/Fake)
 
 The model was trained on a diverse dataset and demonstrated strong performance in distinguishing real and fake images across various scenarios. Below are sample plots illustrating training progress:
 
-![Training Loss](./images/training_loss.png)
+![Training Loss](![WhatsApp Image 2024-09-06 at 18 48 19_e8d59962](https://github.com/user-attachments/assets/a5a7979e-76e8-4c1d-b01e-63c283b1a9b2)
+)
 ![Validation Accuracy](./images/validation_accuracy.png)
 
 ### **Example Results**
